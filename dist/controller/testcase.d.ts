@@ -1,0 +1,17 @@
+export declare const getinput: (req: any, res: any) => Promise<void>;
+export declare const addinput: (req: any, res: any) => Promise<void>;
+export declare const updateinput: (req: any, res: any) => Promise<void>;
+export declare const deleteinput: (req: any, res: any) => Promise<void>;
+export declare const getoutput: (req: any, res: any) => Promise<void>;
+export declare const addoutput: (req: any, res: any) => Promise<void>;
+export declare const updateoutput: (req: any, res: any) => Promise<void>;
+export declare const deleteoutput: (req: any, res: any) => Promise<void>;
+export declare const getsampleinput: (req: any, res: any) => Promise<void>;
+export declare const addsampleinput: (req: any, res: any) => Promise<void>;
+export declare const updatesampleinput: (req: any, res: any) => Promise<void>;
+export declare const deletesampleinput: (req: any, res: any) => Promise<void>;
+export declare const getsampleoutput: (req: any, res: any) => Promise<void>;
+export declare const addsampleoutput: (req: any, res: any) => Promise<void>;
+export declare const updatesampleoutput: (req: any, res: any) => Promise<void>;
+export declare const deletesampleoutput: (req: any, res: any) => Promise<void>;
+//# sourceMappingURL=testcase.d.ts.map
